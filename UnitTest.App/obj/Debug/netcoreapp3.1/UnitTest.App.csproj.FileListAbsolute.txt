@@ -1,0 +1,9 @@
+D:\.Net\Asp.Net Core Unit Test Tutorial\UnitTest\UnitTest.App\bin\Debug\netcoreapp3.1\UnitTest.App.deps.json
+D:\.Net\Asp.Net Core Unit Test Tutorial\UnitTest\UnitTest.App\bin\Debug\netcoreapp3.1\UnitTest.App.dll
+D:\.Net\Asp.Net Core Unit Test Tutorial\UnitTest\UnitTest.App\bin\Debug\netcoreapp3.1\UnitTest.App.pdb
+D:\.Net\Asp.Net Core Unit Test Tutorial\UnitTest\UnitTest.App\obj\Debug\netcoreapp3.1\UnitTest.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Asp.Net Core Unit Test Tutorial\UnitTest\UnitTest.App\obj\Debug\netcoreapp3.1\UnitTest.App.AssemblyInfoInputs.cache
+D:\.Net\Asp.Net Core Unit Test Tutorial\UnitTest\UnitTest.App\obj\Debug\netcoreapp3.1\UnitTest.App.AssemblyInfo.cs
+D:\.Net\Asp.Net Core Unit Test Tutorial\UnitTest\UnitTest.App\obj\Debug\netcoreapp3.1\UnitTest.App.csproj.CoreCompileInputs.cache
+D:\.Net\Asp.Net Core Unit Test Tutorial\UnitTest\UnitTest.App\obj\Debug\netcoreapp3.1\UnitTest.App.dll
+D:\.Net\Asp.Net Core Unit Test Tutorial\UnitTest\UnitTest.App\obj\Debug\netcoreapp3.1\UnitTest.App.pdb
